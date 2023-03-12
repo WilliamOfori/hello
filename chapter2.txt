@@ -1,1 +1,2 @@
 this is the initial text in chapter2.txt
+chapter2 edited
