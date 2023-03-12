@@ -1,1 +1,2 @@
 this is the intial text in chapter1
+this is text is being appended to chapter1
